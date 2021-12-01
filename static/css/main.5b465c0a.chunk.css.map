@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/TodoItem/main.scss"],"names":[],"mappings":"AAAA,iBACE,WAAA,CACA,UAAA,CACA,sBAAA,CACA,YAAA,CACA,uBACE,oBAAA","file":"main.5b465c0a.chunk.css","sourcesContent":[".todo-edit-input {\n  border: none;\n  color: #000000;\n  background: transparent;\n  outline: none;\n  &:focus {\n    border: 1px solid red;\n  }\n}"]}
